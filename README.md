@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khairulla-FrontEnd
-- 👀 I’m interested in coding-games, react and frontend web-development
+- 👀 I’m interested in frontend web-development
 - 🌱 I’m currently learning to work on frontend web-development
 - 💞️ I’m looking to collaborate on frontend web-development
-- 📫 How to reach me t.me/Redni873
+- 📫 How to reach me t.me/Redni2008
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a hard working guy who feels no hardship.
